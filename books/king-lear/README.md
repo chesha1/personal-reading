@@ -8,7 +8,7 @@
 - 出版社：译林出版社
 - ISBN：978-7-5447-6809-2
 - 语言：中文
-- 文件格式：EPUB
+- 文件格式：EPUB、Markdown
 
 ## 阅读进度
 
@@ -20,6 +20,7 @@
 ## 本书导航
 
 - [电子书原文件](source/king-lear.zh.epub)
+- [Markdown 文本源](source/king-lear.zh.md)
 - [阅读笔记](notes/notes.md)
 - [疑问清单](notes/questions.md)
 
